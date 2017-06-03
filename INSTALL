@@ -1,0 +1,9 @@
+Building Penya
+
+See doc/readme-qt.rst for instructions on building Penya-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Penya.
+
+See doc/build-*.txt for instructions on building penyad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Penya.
